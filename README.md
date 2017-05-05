@@ -5,7 +5,7 @@ Follow steps in https://github.com/mfpdev/mobilefirst-beacons-adapter
 ## Download source code and register the app under MobileFirst server
 ```
 $ git clone https://github.com/mfpdev/beacons-sample-app-android.git
-$ cd MobileFirstBeaconsDemoAndroid
+$ cd beacons-sample-app-android
 $ mfpdev app register
 ```
 
